@@ -11,10 +11,10 @@ backs each claim, which is the first thing to do when you use AI for research.
 ## Run it
 
 ```bash
-python -m citecheck examples/sample_answer.txt examples/bees.txt   # command line, no installs
-pip install streamlit && streamlit run app.py                      # web interface
-python -m unittest discover -s tests                               # tests
-python eval/run_eval.py eval/test.json                             # accuracy check
+python3 -m citecheck examples/sample_answer.txt examples/bees.txt   # command line, no installs
+python3 -m pip install -r requirements.txt && python3 -m streamlit run app.py   # web interface
+python3 -m unittest discover -s tests   # tests
+python3 eval/run_eval.py eval/test.json   # accuracy check
 ```
 
 Example output:
