@@ -1,0 +1,55 @@
+{
+ "sources": {
+  "museum.txt": "The Harbor Science Museum opened in 1987 and now welcomes about 600,000 visitors each year. General admission is 18 dollars for adults and 12 dollars for children aged 5 to 12, while children under 5 enter free. The planetarium shows run every hour from 10 a.m. to 4 p.m. and require a separate 6 dollar ticket. The museum's largest exhibit is a 24 meter blue whale skeleton that hangs in the main hall. Members receive free admission all year and a 10 percent discount at the gift shop. Photography is allowed in all galleries, but flash photography is prohibited in the planetarium. The museum is open Tuesday through Sunday and is closed on Mondays.\n"
+ },
+ "claims": [
+  {
+   "text": "The Harbor Science Museum opened in 1987.",
+   "label": "supported"
+  },
+  {
+   "text": "Children under 5 get in for free.",
+   "label": "supported"
+  },
+  {
+   "text": "Adult admission costs 20 dollars.",
+   "label": "unsupported"
+  },
+  {
+   "text": "Planetarium shows need a separate ticket.",
+   "label": "supported"
+  },
+  {
+   "text": "The planetarium ticket is included with general admission.",
+   "label": "unsupported"
+  },
+  {
+   "text": "A blue whale skeleton hangs in the main hall.",
+   "label": "supported"
+  },
+  {
+   "text": "The main hall features a dinosaur skeleton.",
+   "label": "unsupported"
+  },
+  {
+   "text": "Members get a 10 percent discount at the gift shop.",
+   "label": "supported"
+  },
+  {
+   "text": "Members get a 15 percent discount at the gift shop.",
+   "label": "unsupported"
+  },
+  {
+   "text": "Flash photography is not allowed in the planetarium.",
+   "label": "supported"
+  },
+  {
+   "text": "The museum is closed on Mondays.",
+   "label": "supported"
+  },
+  {
+   "text": "The museum is open seven days a week.",
+   "label": "unsupported"
+  }
+ ]
+}

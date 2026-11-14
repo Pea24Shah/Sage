@@ -1,0 +1,109 @@
+{
+ "sources": {
+  "bees.txt": "Honey bees live in colonies that usually contain one queen, several hundred drones, and between 20,000 and 60,000 workers during summer. The queen can lay up to 2,000 eggs per day in the busiest season. Worker bees live about six weeks in summer but several months in winter. Foragers communicate the direction and distance of food with a movement called the waggle dance. A hive keeps its brood nest at roughly 35 degrees Celsius by clustering together and by fanning their wings. Honey bees do not hibernate in winter; instead they form a tight cluster and shiver to keep the queen warm. Colonies need about 20 kilograms of honey to survive a cold winter.\n",
+  "bikeshare.txt": "Riverton launched its bike-share program in 2019 with 300 bikes and 25 docking stations. By 2023 the fleet had grown to 1,150 bikes and 90 stations. A single ride costs 2 dollars for the first 30 minutes, and each additional 15 minutes costs 1 dollar. Monthly passes cost 20 dollars and include unlimited rides under 45 minutes. The program is run by the Riverton Transit Authority, which reported 410,000 rides in 2023. Riders must be at least 16 years old, and helmets are recommended but not required. Bikes are not available between midnight and 5 a.m. because the docking stations are closed for maintenance.\n",
+  "library.txt": "Alder Library cardholders may borrow up to 10 items at a time. Books are loaned for 21 days and may be renewed twice unless another patron has placed a hold. DVDs are loaned for 7 days and cannot be renewed. Late fees are 10 cents per day for books, with a maximum of 5 dollars per item. Study rooms can be reserved for up to 2 hours per day, and reservations open 7 days in advance. The library is closed on Sundays and on public holidays. Free printing is limited to 20 pages per week for each cardholder.\n"
+ },
+ "claims": [
+  {
+   "text": "A honey bee colony usually has one queen.",
+   "label": "supported"
+  },
+  {
+   "text": "The waggle dance tells other bees the direction and distance of food.",
+   "label": "supported"
+  },
+  {
+   "text": "Worker bees live for around six weeks in the summer.",
+   "label": "supported"
+  },
+  {
+   "text": "Honey bees hibernate during winter.",
+   "label": "unsupported"
+  },
+  {
+   "text": "The queen can lay up to 5,000 eggs per day.",
+   "label": "unsupported"
+  },
+  {
+   "text": "A colony needs about 20 kilograms of honey to survive winter.",
+   "label": "supported"
+  },
+  {
+   "text": "Drones are responsible for collecting nectar.",
+   "label": "unsupported"
+  },
+  {
+   "text": "The hive keeps the brood nest at about 35 degrees Celsius.",
+   "label": "supported"
+  },
+  {
+   "text": "Bees communicate using scent trails left on flowers.",
+   "label": "unsupported"
+  },
+  {
+   "text": "Riverton started its bike-share program in 2019.",
+   "label": "supported"
+  },
+  {
+   "text": "The program began with 500 bikes.",
+   "label": "unsupported"
+  },
+  {
+   "text": "A monthly pass costs 20 dollars.",
+   "label": "supported"
+  },
+  {
+   "text": "Helmets are required for all riders.",
+   "label": "unsupported"
+  },
+  {
+   "text": "The Riverton Transit Authority runs the program.",
+   "label": "supported"
+  },
+  {
+   "text": "The program is funded by the city council.",
+   "label": "unsupported"
+  },
+  {
+   "text": "Bikes cannot be used between midnight and 5 a.m.",
+   "label": "supported"
+  },
+  {
+   "text": "Riders have to be 16 or older.",
+   "label": "supported"
+  },
+  {
+   "text": "Cardholders can borrow up to 10 items at once.",
+   "label": "supported"
+  },
+  {
+   "text": "DVDs can be renewed twice.",
+   "label": "unsupported"
+  },
+  {
+   "text": "Books are loaned for 21 days.",
+   "label": "supported"
+  },
+  {
+   "text": "Late fees for books are 25 cents per day.",
+   "label": "unsupported"
+  },
+  {
+   "text": "The library is closed on Sundays.",
+   "label": "supported"
+  },
+  {
+   "text": "Study rooms can be reserved for 4 hours per day.",
+   "label": "unsupported"
+  },
+  {
+   "text": "The library offers free coffee to cardholders.",
+   "label": "unsupported"
+  },
+  {
+   "text": "Printing is free up to 20 pages a week.",
+   "label": "supported"
+  }
+ ]
+}
