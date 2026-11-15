@@ -1,6 +1,6 @@
 # Sage : Citation Checker
 
-**Live demo:** https://YOUR-LINK.streamlit.app
+**Live demo:** https://sage-citation-checker.streamlit.app
 
 
 Paste an AI answer and the source text it relied on. The tool splits the answer
