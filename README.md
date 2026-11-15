@@ -1,5 +1,8 @@
 # Sage : Citation Checker
 
+**Live demo:** https://YOUR-LINK.streamlit.app
+
+
 Paste an AI answer and the source text it relied on. The tool splits the answer
 into claims, finds the closest passage in the source for each one, and labels
 it **Supported**, **Partly supported**, **Possible contradiction** or
